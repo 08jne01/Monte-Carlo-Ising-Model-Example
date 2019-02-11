@@ -328,3 +328,5 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/MonteCarloSpinTest/include/SFML
+/MonteCarloSpinTest/lib
